@@ -21,10 +21,10 @@ If you forgot your ID, you can go to your profile and check the string at the en
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/)
 
-### Notebook
+### Dataset
 
 ```
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/dataset)
+![Dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/dataset)
 ```
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset)
@@ -49,4 +49,3 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ## License
 
 Original design licenses for tiers, medals and colors are all owned by Kaggle.
-
