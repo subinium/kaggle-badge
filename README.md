@@ -16,15 +16,15 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ### Competition
 
 ```
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition)
 ```
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
 
 ### Dataset
 
 ```
-![Dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/dataset)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/dataset)
 ```
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset)
