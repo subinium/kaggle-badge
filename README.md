@@ -4,12 +4,14 @@
   <p align="center">🥇Add dynamically generated Kaggle Tier & Medals on your readme.🥇</p>
 </p>
 
-> Official website and more cool designs will be added.
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion/light" />
+</p>
 
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset)
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion)
+> Official website and more cool designs will be added.
 
 ## Usage & Example
 
