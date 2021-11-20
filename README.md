@@ -6,6 +6,11 @@
 
 > Official website and more cool designs will be added.
 
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion)
+
 ## Usage & Example
 
 Like any other Github badge, you can add it to your profile with a code.
