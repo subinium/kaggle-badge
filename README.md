@@ -1,8 +1,13 @@
 <p align="center">
   <img height="100px" src="./assets/logo.png" align="center" alt="GitHub Readme Stats" />
+  <br/>
+  
   
   <p align="center">🥇Add dynamically generated Kaggle Tier & Medals on your readme.🥇</p>
+  
 </p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubinium%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > Official website and more cool designs will be added.
 
@@ -50,7 +55,6 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook/light)
 
 ### Discussion
-
 
 ```
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/discussion)
