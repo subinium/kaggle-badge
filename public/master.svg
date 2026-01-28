@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>master</title>
+    <g id="master" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(20.000000, 11.000000)">
+            <g id="Group-2" transform="translate(76.000000, 84.000000) rotate(-300.000000) translate(-76.000000, -84.000000) translate(11.000000, 66.000000)" fill="#F76D34">
+                <rect id="Rectangle" x="122" y="0" width="8" height="36"></rect>
+                <rect id="Rectangle" x="0" y="0" width="8" height="36"></rect>
+            </g>
+            <g id="Group-2" transform="translate(76.000000, 84.000000) rotate(-240.000000) translate(-76.000000, -84.000000) translate(11.000000, 66.000000)" fill="#F76D34">
+                <rect id="Rectangle" x="122" y="0" width="8" height="36"></rect>
+                <rect id="Rectangle" x="0" y="0" width="8" height="36"></rect>
+            </g>
+            <rect id="Rectangle" fill="#F76D34" x="133" y="66" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#F76D34" x="11" y="66" width="8" height="36"></rect>
+            <circle id="Oval" stroke="#F76D34" stroke-width="8" cx="14.5" cy="117.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#F76D34" stroke-width="8" cx="75.5" cy="84.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#F76D34" stroke-width="8" cx="136.5" cy="117.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#F76D34" stroke-width="8" cx="136.5" cy="49.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#F76D34" stroke-width="8" cx="75.5" cy="14.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#F76D34" stroke-width="8" cx="14.5" cy="50.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#F76D34" stroke-width="8" cx="75.5" cy="154.5" r="18.5"></circle>
+        </g>
+    </g>
+</svg>

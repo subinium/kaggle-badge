@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>contributor</title>
+    <g id="contributor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(17.000000, 16.000000)">
+            <circle id="Oval" stroke="#20BEFF" stroke-width="8" cx="77.5" cy="17.5" r="21.5"></circle>
+            <circle id="Oval" stroke="#20BEFF" stroke-width="8" cx="77.5" cy="141.5" r="21.5"></circle>
+            <circle id="Oval" stroke="#20BEFF" stroke-width="8" transform="translate(137.500000, 78.500000) rotate(-270.000000) translate(-137.500000, -78.500000) " cx="137.5" cy="78.5" r="21.5"></circle>
+            <circle id="Oval" stroke="#20BEFF" stroke-width="8" transform="translate(17.500000, 78.500000) rotate(-270.000000) translate(-17.500000, -78.500000) " cx="17.5" cy="78.5" r="21.5"></circle>
+            <g id="Group-5" transform="translate(30.000000, 93.000000)" fill="#20BEFF">
+                <rect id="Rectangle" transform="translate(76.812514, 18.244439) rotate(44.000000) translate(-76.812514, -18.244439) " x="72.8125142" y="-3.25556081" width="8" height="43"></rect>
+                <rect id="Rectangle" transform="translate(17.812514, 18.244439) scale(-1, 1) rotate(44.000000) translate(-17.812514, -18.244439) " x="13.8125142" y="-3.25556081" width="8" height="43"></rect>
+            </g>
+            <g id="Group-5" transform="translate(77.312514, 45.244439) scale(1, -1) translate(-77.312514, -45.244439) translate(30.000000, 27.000000)" fill="#20BEFF">
+                <rect id="Rectangle" transform="translate(76.812514, 18.244439) rotate(44.000000) translate(-76.812514, -18.244439) " x="72.8125142" y="-3.25556081" width="8" height="43"></rect>
+                <rect id="Rectangle" transform="translate(17.812514, 18.244439) scale(-1, 1) rotate(44.000000) translate(-17.812514, -18.244439) " x="13.8125142" y="-3.25556081" width="8" height="43"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

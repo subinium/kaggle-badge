@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>grandmaster</title>
+    <g id="grandmaster" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(9.000000, 9.000000)">
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="86.5" cy="88.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="28.5" cy="43.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="86.5" cy="14.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="144.5" cy="43.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="158.5" cy="106.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="14.5" cy="106.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="53.5" cy="157.5" r="18.5"></circle>
+            <circle id="Oval" stroke="#DDAA17" stroke-width="8" cx="119.5" cy="156.5" r="18.5"></circle>
+            <rect id="Rectangle" fill="#DDAA17" x="83" y="33" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(87.000000, 158.000000) rotate(-270.000000) translate(-87.000000, -158.000000) " x="83" y="140" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(70.000000, 123.000000) rotate(27.000000) translate(-70.000000, -123.000000) " x="66" y="105" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(33.000000, 133.500000) rotate(-39.000000) translate(-33.000000, -133.500000) " x="29" y="119" width="8" height="29"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(140.000000, 133.500000) scale(-1, 1) rotate(-39.000000) translate(-140.000000, -133.500000) " x="136" y="119" width="8" height="29"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(103.000000, 123.000000) scale(-1, 1) rotate(27.000000) translate(-103.000000, -123.000000) " x="99" y="105" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(58.000000, 66.000000) scale(-1, 1) rotate(50.000000) translate(-58.000000, -66.000000) " x="54" y="48" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(116.000000, 66.000000) rotate(50.000000) translate(-116.000000, -66.000000) " x="112" y="48" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(51.000000, 99.000000) scale(-1, 1) rotate(104.000000) translate(-51.000000, -99.000000) " x="47" y="81" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(122.000000, 99.000000) rotate(104.000000) translate(-122.000000, -99.000000) " x="118" y="81" width="8" height="36"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(58.000000, 29.000000) scale(-1, 1) rotate(115.000000) translate(-58.000000, -29.000000) " x="54" y="12" width="8" height="34"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(116.000000, 29.000000) rotate(115.000000) translate(-116.000000, -29.000000) " x="112" y="12" width="8" height="34"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(21.000000, 74.000000) scale(-1, 1) rotate(170.000000) translate(-21.000000, -74.000000) " x="17" y="58" width="8" height="32"></rect>
+            <rect id="Rectangle" fill="#DDAA17" transform="translate(152.000000, 74.000000) rotate(170.000000) translate(-152.000000, -74.000000) " x="148" y="58" width="8" height="32"></rect>
+        </g>
+    </g>
+</svg>

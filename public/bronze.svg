@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bronze</title>
+    <g id="bronze" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="medal">
+            <circle id="Oval" fill="#8E5B3D" cx="50" cy="50" r="50"></circle>
+            <path d="M75.2796141,21.0332779 C66.8900792,13.9709021 59.9382462,12 50.5,12 C29.2370371,12 12,29.2370371 12,50.5 C12,59.9464061 15.3713296,68.3539466 21.0171237,75.0527174 L75.2796141,21.0332779 Z" id="Oval" fill="#F0BA7C"></path>
+        </g>
+    </g>
+</svg>
